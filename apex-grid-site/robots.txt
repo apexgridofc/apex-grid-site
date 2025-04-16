@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://apexgrid.com.br/sitemap.xml
